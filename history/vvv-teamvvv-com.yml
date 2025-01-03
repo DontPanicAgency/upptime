@@ -1,7 +1,7 @@
-url: https://www.teamvvv.com/
-status: down
-code: 403
-responseTime: 129
-lastUpdated: 2025-01-03T11:10:16.264Z
+url: https://www.teamvvv.com/?monitor_check=true
+status: up
+code: 200
+responseTime: 1182
+lastUpdated: 2025-01-03T12:34:47.270Z
 startTime: 2025-01-03T11:02:59.785Z
 generator: Upptime <https://github.com/upptime/upptime>
