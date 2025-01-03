@@ -7,20 +7,73 @@ assignees:
   - dpjamesh
 
 sites:
-  - name: Don't Panic!
+  - name: DP - dontpanic.agency
     url: https://dontpanic.agency
     icon: https://dontpanic.agency/wp-content/themes/dontpanic/resources/images/favicon.ico
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: VVV - teamvvv.com
+    url: https://www.teamvvv.com/
+    icon: https://www.teamvvv.com/wp-content/themes/teamvvv/resources/images/favicon/favicon.ico
+  - name: CIR - circus360.uk
+    url: https://circus360.uk/
+    icon: https://circus360.uk/wp-content/themes/circus22-wp-theme/assets/images/favicon/favicon-32x32.png
+  - name: GLA - gl-assessment.co.uk
+    url: https://www.gl-assessment.co.uk/
+    icon: https://www.gl-assessment.co.uk/Assets/favicons/favicon.ico
+  - name: GLA - gl-education.com
+    url: https://www.gl-education.com/
+    icon: https://www.gl-education.com/Assets/favicons/favicon.ico
+  - name: GLA - support.gl-assessment.co.uk
+    url: https://support.gl-assessment.co.uk/
+    icon: https://support.gl-assessment.co.uk/favicon/favicon.ico
+  - name: GLA - content.gl-assessment.co.uk
+    url: https://content.gl-assessment.co.uk/
+  - name: CIR/Kent - virtualexperience.kent.ac.uk
+    url: https://virtualexperience.kent.ac.uk/
+    icon: https://virtualexperience.kent.ac.uk/wp-content/themes/kent-wp-theme/assets/images/favicons/favicon.ico?1693492488
+  - name: BUT - buttonschildrensparties.co.uk
+    url: https://buttonschildrensparties.co.uk/
+    icon: https://buttonschildrensparties.co.uk/favicon.ico
+  - name: BUT - wonderwoodexplorers.co.uk
+    url: https://wonderwoodexplorers.co.uk/
+    icon: https://wonderwoodexplorers.co.uk/wp-content/themes/wonderwood/resources/favicon/favicon.ico
+  - name: DGL - deborah-glover.co.uk
+    url: https://deborah-glover.co.uk/
+    icon: https://deborah-glover.co.uk/wp-content/uploads/2016/09/DG-Favicon.png
+  - name: DGL - pcnr.co.uk
+    url: https://pcnr.co.uk/
+    icon: https://pcnr.co.uk/resources/images/favicon.ico
+  - name: SL - laura-turner.co.uk
+    url: https://laura-turner.co.uk
+    icon: https://laura-turner.co.uk/resources/images/favicon.ico
+  - name: DP - zaphod.dev
+    url: https://zaphod.dev
+  - name: ELS - e6.s6.dpdhost.co.uk
+    url: https://e6.s6.dpdhost.co.uk
+  - name: STH - surreytotalhealth.co.uk
+    url: https://surreytotalhealth.co.uk/
+    icon: https://surreytotalhealth.co.uk/wp-content/uploads/2019/02/favicon.png
+  - name: TGS - thegarageshefford.co.uk
+    url: https://thegarageshefford.co.uk/
+    icon: https://thegarageshefford.co.uk/wp-content/themes/thegarageshefford/favicon/favicon-32x32.png
+  - name: WBG - waltonbridgegarage.co.uk
+    url: https://waltonbridgegarage.co.uk/
+    icon: https://waltonbridgegarage.co.uk/wp-content/themes/waltonbridge/favicon.ico?time=1735901938
+  - name: WRI - wrightwell.co.uk
+    url: https://waltonbridgegarage.co.uk/wp-content/themes/waltonbridge/favicon.ico?time=1735901938
+    icon: https://www.wrightwell.co.uk/wp-content/themes/wrightwell/resources/favicon/favicon.ico
+  - name: WRI - whentheygetolder.co.uk
+    url: https://whentheygetolder.co.uk/
+    icon: https://whentheygetolder.co.uk/wp-content/themes/whentheygetolder/images/favicon.ico
+  - name: DP - S8 HTTP
+    url: https://s8.dpdhost.co.uk
+  - name: DP - S8 mySQL
+    url: s8.dpdhost.co.uk
+    port: 3306
+  - name: DP - S8 DirectAdmin
+    url: s8.dpdhost.co.uk
+    port: 2222
+  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
