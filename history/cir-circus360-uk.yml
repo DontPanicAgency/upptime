@@ -1,7 +1,7 @@
-url: https://prod.circus360.uk/
+url: https://circus360.uk/?monitor_check=true
 status: down
 code: 403
-responseTime: 1534
-lastUpdated: 2025-01-03T12:34:53.838Z
+responseTime: 234
+lastUpdated: 2025-01-03T12:42:16.862Z
 startTime: 2025-01-03T11:03:02.572Z
 generator: Upptime <https://github.com/upptime/upptime>
