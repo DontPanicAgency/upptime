@@ -2,6 +2,10 @@
 owner: DontPanicAgency # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+assignees:
+  - DeveloperStuart
+  - dpjamesh
+
 sites:
   - name: Don't Panic!
     url: https://dontpanic.agency
