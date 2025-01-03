@@ -26,7 +26,7 @@ sites:
     url: https://support.gl-assessment.co.uk/
     icon: https://support.gl-assessment.co.uk/favicon/favicon.ico
   - name: GLA - content.gl-assessment.co.uk
-    url: https://content.gl-assessment.co.uk/
+    url: https://content.gl-assessment.co.uk/readingpathwayguide
   - name: CIR/Kent - virtualexperience.kent.ac.uk
     url: https://virtualexperience.kent.ac.uk/
     icon: https://virtualexperience.kent.ac.uk/wp-content/themes/kent-wp-theme/assets/images/favicons/favicon.ico?1693492488
