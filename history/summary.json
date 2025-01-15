@@ -22,19 +22,19 @@
     "url": "https://www.teamvvv.com/?monitor_check=true",
     "icon": "https://www.teamvvv.com/wp-content/themes/teamvvv/resources/images/favicon/favicon.ico",
     "slug": "vvv-teamvvv-com",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 1324,
     "timeDay": 3242,
     "timeWeek": 1719,
     "timeMonth": 1324,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2025-01-15": 12,
+      "2025-01-15": 2,
       "2025-01-03": 92
     }
   },
@@ -135,19 +135,19 @@
     "url": "https://virtualexperience.kent.ac.uk/",
     "icon": "https://virtualexperience.kent.ac.uk/wp-content/themes/kent-wp-theme/assets/images/favicons/favicon.ico?1693492488",
     "slug": "cir-kent-virtualexperience-kent-ac-uk",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1243,
     "timeDay": 2319,
     "timeWeek": 1433,
     "timeMonth": 1243,
     "timeYear": 1243,
     "dailyMinutesDown": {
-      "2025-01-15": 12
+      "2025-01-15": 0
     }
   },
   {
