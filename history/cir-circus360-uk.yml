@@ -1,7 +1,7 @@
 url: https://circus360.uk/?monitor_check=true
-status: up
-code: 200
-responseTime: 2678
-lastUpdated: 2025-01-18T19:14:23.949Z
+status: down
+code: 403
+responseTime: 450
+lastUpdated: 2025-01-18T19:27:13.468Z
 startTime: 2025-01-03T11:03:02.572Z
 generator: Upptime <https://github.com/upptime/upptime>
