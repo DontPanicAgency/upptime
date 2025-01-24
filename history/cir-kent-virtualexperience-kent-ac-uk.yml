@@ -1,7 +1,7 @@
 url: https://virtualexperience.kent.ac.uk/
-status: up
-code: 200
-responseTime: 4228
-lastUpdated: 2025-01-24T08:36:11.418Z
+status: down
+code: 502
+responseTime: 22749
+lastUpdated: 2025-01-24T10:53:11.358Z
 startTime: 2025-01-03T11:03:14.127Z
 generator: Upptime <https://github.com/upptime/upptime>
