@@ -13,9 +13,6 @@ sites:
   - name: VVV - teamvvv.com
     url: https://www.teamvvv.com/?monitor_check=true
     icon: https://www.teamvvv.com/wp-content/themes/teamvvv/resources/images/favicon/favicon.ico
-  - name: CIR - circus360.uk
-    url: https://circus360.uk/?monitor_check=true
-    icon: https://circus360.uk/wp-content/themes/circus22-wp-theme/assets/images/favicon/favicon-32x32.png
   - name: GLA - gl-assessment.co.uk
     url: https://www.gl-assessment.co.uk/
     icon: https://www.gl-assessment.co.uk/Assets/favicons/favicon.ico
