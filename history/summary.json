@@ -4,36 +4,39 @@
     "url": "https://dontpanic.agency",
     "icon": "https://dontpanic.agency/wp-content/themes/dontpanic/resources/images/favicon.ico",
     "slug": "dp-dontpanic-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 745,
     "timeDay": 785,
     "timeWeek": 834,
     "timeMonth": 744,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 3
+    }
   },
   {
     "name": "VVV - teamvvv.com",
     "url": "https://www.teamvvv.com/?monitor_check=true",
     "icon": "https://www.teamvvv.com/wp-content/themes/teamvvv/resources/images/favicon/favicon.ico",
     "slug": "vvv-teamvvv-com",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1412,
     "timeDay": 2902,
     "timeWeek": 1645,
     "timeMonth": 1534,
     "timeYear": 1412,
     "dailyMinutesDown": {
+      "2025-02-12": 1,
       "2025-01-24": 201,
       "2025-01-03": 92
     }
@@ -336,9 +339,9 @@
     "url": "https://whentheygetolder.co.uk/",
     "icon": "https://whentheygetolder.co.uk/wp-content/themes/whentheygetolder/images/favicon.ico",
     "slug": "wri-whentheygetolder-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -347,7 +350,9 @@
     "timeWeek": 1992,
     "timeMonth": 1989,
     "timeYear": 1897,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "DP - S8 HTTP",
