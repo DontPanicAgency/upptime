@@ -115,9 +115,9 @@
     "url": "https://virtualexperience.kent.ac.uk/",
     "icon": "https://virtualexperience.kent.ac.uk/wp-content/themes/kent-wp-theme/assets/images/favicons/favicon.ico?1693492488",
     "slug": "cir-kent-virtualexperience-kent-ac-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.79%",
@@ -127,6 +127,7 @@
     "timeMonth": 2789,
     "timeYear": 2222,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2025-01-24": 127,
       "2025-01-21": 15
     }
