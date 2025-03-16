@@ -44,36 +44,40 @@
     "url": "https://www.gl-assessment.co.uk/",
     "icon": "https://www.gl-assessment.co.uk/Assets/favicons/favicon.ico",
     "slug": "gla-gl-assessment-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1264,
-    "timeDay": 1064,
-    "timeWeek": 3892,
-    "timeMonth": 1661,
-    "timeYear": 1264,
-    "dailyMinutesDown": {}
+    "time": 1315,
+    "timeDay": 3176,
+    "timeWeek": 4067,
+    "timeMonth": 1786,
+    "timeYear": 1315,
+    "dailyMinutesDown": {
+      "2025-03-16": 0
+    }
   },
   {
     "name": "GLA - gl-education.com",
     "url": "https://www.gl-education.com/",
     "icon": "https://www.gl-education.com/Assets/favicons/favicon.ico",
     "slug": "gla-gl-education-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 1235,
-    "timeWeek": 914,
-    "timeMonth": 852,
-    "timeYear": 905,
-    "dailyMinutesDown": {}
+    "time": 899,
+    "timeDay": 834,
+    "timeWeek": 854,
+    "timeMonth": 838,
+    "timeYear": 899,
+    "dailyMinutesDown": {
+      "2025-03-16": 0
+    }
   },
   {
     "name": "GLA - support.gl-assessment.co.uk",
