@@ -5,18 +5,19 @@
     "icon": "https://dontpanic.agency/wp-content/themes/dontpanic/resources/images/favicon.ico",
     "slug": "dp-dontpanic-agency",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 983,
-    "timeDay": 10253,
-    "timeWeek": 3089,
-    "timeMonth": 1407,
-    "timeYear": 983,
+    "uptime": "99.92%",
+    "uptimeDay": "92.15%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
+    "time": 1163,
+    "timeDay": 19698,
+    "timeWeek": 5487,
+    "timeMonth": 1986,
+    "timeYear": 1163,
     "dailyMinutesDown": {
-      "2025-04-10": 10
+      "2025-04-11": 44,
+      "2025-04-10": 69
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1304,
-    "timeDay": 1336,
-    "timeWeek": 1184,
-    "timeMonth": 1224,
+    "timeDay": 1298,
+    "timeWeek": 1200,
+    "timeMonth": 1223,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2025-02-26": 18,
@@ -52,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 1211,
-    "timeDay": 1253,
-    "timeWeek": 916,
-    "timeMonth": 1672,
-    "timeYear": 1211,
+    "time": 1210,
+    "timeDay": 1104,
+    "timeWeek": 971,
+    "timeMonth": 1050,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2025-03-16": 35
     }
@@ -72,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 918,
-    "timeDay": 1080,
-    "timeWeek": 810,
-    "timeMonth": 954,
-    "timeYear": 918,
+    "time": 921,
+    "timeDay": 1259,
+    "timeWeek": 877,
+    "timeMonth": 959,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-03-16": 35
     }
@@ -92,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 757,
+    "time": 714,
+    "timeDay": 634,
     "timeWeek": 610,
     "timeMonth": 614,
-    "timeYear": 715,
+    "timeYear": 714,
     "dailyMinutesDown": {}
   },
   {
@@ -110,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 1465,
-    "timeWeek": 978,
-    "timeMonth": 997,
-    "timeYear": 1029,
+    "time": 1031,
+    "timeDay": 1212,
+    "timeWeek": 1036,
+    "timeMonth": 995,
+    "timeYear": 1031,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1698,
-    "timeDay": 1035,
-    "timeWeek": 972,
-    "timeMonth": 1031,
-    "timeYear": 1698,
+    "time": 1694,
+    "timeDay": 1181,
+    "timeWeek": 1025,
+    "timeMonth": 1022,
+    "timeYear": 1694,
     "dailyMinutesDown": {
       "2025-02-20": 22,
       "2025-01-24": 127,
@@ -145,18 +146,19 @@
     "icon": "https://buttonschildrensparties.co.uk/favicon.ico",
     "slug": "but-buttonschildrensparties-co-uk",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.90%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.90%",
     "time": 747,
-    "timeDay": 856,
+    "timeDay": 0,
     "timeWeek": 693,
-    "timeMonth": 740,
+    "timeMonth": 737,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2025-04-10": 9,
+      "2025-04-11": 44,
+      "2025-04-10": 68,
       "2025-01-04": 22
     }
   },
@@ -166,18 +168,19 @@
     "icon": "https://wonderwoodexplorers.co.uk/wp-content/themes/wonderwood/resources/favicon/favicon.ico",
     "slug": "but-wonderwoodexplorers-co-uk",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
     "time": 1834,
-    "timeDay": 1952,
-    "timeWeek": 1847,
-    "timeMonth": 1828,
+    "timeDay": 0,
+    "timeWeek": 1801,
+    "timeMonth": 1821,
     "timeYear": 1834,
     "dailyMinutesDown": {
-      "2025-04-10": 9
+      "2025-04-11": 44,
+      "2025-04-10": 68
     }
   },
   {
@@ -186,18 +189,19 @@
     "icon": "https://deborah-glover.co.uk/wp-content/uploads/2016/09/DG-Favicon.png",
     "slug": "dgl-deborah-glover-co-uk",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 2129,
-    "timeDay": 2233,
-    "timeWeek": 2198,
-    "timeMonth": 2109,
+    "timeDay": 0,
+    "timeWeek": 2336,
+    "timeMonth": 2105,
     "timeYear": 2129,
     "dailyMinutesDown": {
-      "2025-04-10": 8
+      "2025-04-11": 44,
+      "2025-04-10": 67
     }
   },
   {
@@ -206,18 +210,19 @@
     "icon": "https://pcnr.co.uk/resources/images/favicon.ico",
     "slug": "dgl-pcnr-co-uk",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 698,
-    "timeDay": 798,
-    "timeWeek": 669,
-    "timeMonth": 693,
+    "timeDay": 0,
+    "timeWeek": 675,
+    "timeMonth": 690,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2025-04-10": 8
+      "2025-04-11": 44,
+      "2025-04-10": 67
     }
   },
   {
@@ -226,18 +231,19 @@
     "icon": "https://laura-turner.co.uk/resources/images/favicon.ico",
     "slug": "sl-laura-turner-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 10164,
-    "timeWeek": 2999,
-    "timeMonth": 1210,
-    "timeYear": 824,
+    "uptime": "99.92%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
+    "time": 1007,
+    "timeDay": 19731,
+    "timeWeek": 5388,
+    "timeMonth": 1808,
+    "timeYear": 1007,
     "dailyMinutesDown": {
-      "2025-04-10": 7
+      "2025-04-11": 44,
+      "2025-04-10": 66
     }
   },
   {
@@ -246,18 +252,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaphod.dev.ico",
     "slug": "dp-zaphod-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 959,
-    "timeDay": 1739,
-    "timeWeek": 1092,
-    "timeMonth": 964,
+    "timeDay": 0,
+    "timeWeek": 1115,
+    "timeMonth": 962,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2025-04-10": 6
+      "2025-04-11": 44,
+      "2025-04-10": 65
     }
   },
   {
@@ -266,18 +273,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/e6.s6.dpdhost.co.uk.ico",
     "slug": "els-e6-s6-dpdhost-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.46%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 652,
-    "timeDay": 813,
-    "timeWeek": 613,
-    "timeMonth": 585,
+    "timeDay": 0,
+    "timeWeek": 591,
+    "timeMonth": 582,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-04-10": 5
+      "2025-04-11": 44,
+      "2025-04-10": 65
     }
   },
   {
@@ -286,18 +294,19 @@
     "icon": "https://surreytotalhealth.co.uk/wp-content/uploads/2019/02/favicon.png",
     "slug": "sth-surreytotalhealth-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.50%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 2601,
-    "timeDay": 2830,
-    "timeWeek": 2188,
-    "timeMonth": 2441,
+    "timeDay": 0,
+    "timeWeek": 2209,
+    "timeMonth": 2413,
     "timeYear": 2601,
     "dailyMinutesDown": {
-      "2025-04-10": 5
+      "2025-04-11": 44,
+      "2025-04-10": 64
     }
   },
   {
@@ -306,18 +315,19 @@
     "icon": "https://thegarageshefford.co.uk/wp-content/themes/thegarageshefford/favicon/favicon-32x32.png",
     "slug": "tgs-thegarageshefford-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 2099,
-    "timeDay": 2086,
-    "timeWeek": 1887,
-    "timeMonth": 2097,
+    "timeDay": 0,
+    "timeWeek": 1829,
+    "timeMonth": 2082,
     "timeYear": 2099,
     "dailyMinutesDown": {
-      "2025-04-10": 4
+      "2025-04-11": 44,
+      "2025-04-10": 63
     }
   },
   {
@@ -326,18 +336,19 @@
     "icon": "https://waltonbridgegarage.co.uk/wp-content/themes/waltonbridge/favicon.ico?time=1735901938",
     "slug": "wbg-waltonbridgegarage-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.92%",
     "time": 2039,
-    "timeDay": 2330,
-    "timeWeek": 2129,
-    "timeMonth": 2060,
+    "timeDay": 0,
+    "timeWeek": 2199,
+    "timeMonth": 2054,
     "timeYear": 2039,
     "dailyMinutesDown": {
-      "2025-04-10": 4
+      "2025-04-11": 44,
+      "2025-04-10": 63
     }
   },
   {
@@ -346,18 +357,19 @@
     "icon": "https://www.wrightwell.co.uk/wp-content/themes/wrightwell/resources/favicon/favicon.ico",
     "slug": "wri-wrightwell-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.62%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.92%",
     "time": 119,
-    "timeDay": 156,
-    "timeWeek": 118,
-    "timeMonth": 120,
+    "timeDay": 0,
+    "timeWeek": 119,
+    "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-04-10": 3
+      "2025-04-11": 44,
+      "2025-04-10": 62
     }
   },
   {
@@ -366,18 +378,19 @@
     "icon": "https://whentheygetolder.co.uk/wp-content/themes/whentheygetolder/images/favicon.ico",
     "slug": "wri-whentheygetolder-co-uk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2028,
-    "timeDay": 10400,
-    "timeWeek": 4335,
-    "timeMonth": 2366,
-    "timeYear": 2028,
+    "uptime": "99.93%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
+    "time": 2197,
+    "timeDay": 19680,
+    "timeWeek": 6616,
+    "timeMonth": 2936,
+    "timeYear": 2197,
     "dailyMinutesDown": {
-      "2025-04-10": 2
+      "2025-04-11": 44,
+      "2025-04-10": 61
     }
   },
   {
@@ -386,18 +399,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s8.dpdhost.co.uk.ico",
     "slug": "dp-s8-http",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 636,
-    "timeDay": 654,
-    "timeWeek": 599,
-    "timeMonth": 558,
+    "timeDay": 0,
+    "timeWeek": 620,
+    "timeMonth": 556,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-04-10": 2
+      "2025-04-11": 44,
+      "2025-04-10": 61
     }
   },
   {
@@ -406,18 +420,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dp-s8-my-sql",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 280,
-    "timeDay": 470,
-    "timeWeek": 288,
-    "timeMonth": 277,
+    "timeDay": 0,
+    "timeWeek": 296,
+    "timeMonth": 275,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-04-10": 1
+      "2025-04-11": 44,
+      "2025-04-10": 60
     }
   },
   {
@@ -426,18 +441,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dp-s8-direct-admin",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 115,
-    "timeDay": 157,
-    "timeWeek": 115,
-    "timeMonth": 116,
+    "timeDay": 0,
+    "timeWeek": 116,
+    "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-04-10": 0
+      "2025-04-11": 44,
+      "2025-04-10": 59
     }
   }
 ]
