@@ -381,9 +381,9 @@
     "url": "https://whentheygetolder.co.uk/",
     "icon": "https://whentheygetolder.co.uk/wp-content/themes/whentheygetolder/images/favicon.ico",
     "slug": "wri-whentheygetolder-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -393,6 +393,7 @@
     "timeMonth": 1579,
     "timeYear": 1797,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-04-11": 121,
       "2025-04-10": 61
     }
