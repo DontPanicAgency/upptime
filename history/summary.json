@@ -25,9 +25,9 @@
     "url": "https://www.teamvvv.com/?monitor_check=true",
     "icon": "https://www.teamvvv.com/wp-content/themes/teamvvv/resources/images/favicon/favicon.ico",
     "slug": "vvv-teamvvv-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -37,6 +37,7 @@
     "timeMonth": 1234,
     "timeYear": 1255,
     "dailyMinutesDown": {
+      "2025-09-14": 0,
       "2025-02-26": 18,
       "2025-01-24": 201,
       "2025-01-03": 92
