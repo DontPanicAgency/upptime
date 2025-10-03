@@ -361,11 +361,11 @@
     "url": "https://waltonbridgegarage.co.uk/wp-content/themes/waltonbridge/favicon.ico?time=1735901938",
     "icon": "https://www.wrightwell.co.uk/wp-content/themes/wrightwell/resources/favicon/favicon.ico",
     "slug": "wri-wrightwell-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 118,
     "timeDay": 260,
@@ -373,6 +373,7 @@
     "timeMonth": 126,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2025-10-03": 4,
       "2025-04-11": 121,
       "2025-04-10": 62
     }
@@ -424,11 +425,11 @@
     "url": "s8.dpdhost.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dp-s8-my-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 276,
     "timeDay": 171,
@@ -436,6 +437,7 @@
     "timeMonth": 285,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2025-10-03": 2,
       "2025-04-11": 121,
       "2025-04-10": 60
     }
@@ -445,10 +447,10 @@
     "url": "s8.dpdhost.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dp-s8-direct-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 112,
@@ -457,6 +459,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2025-10-03": 1,
       "2025-04-11": 121,
       "2025-04-10": 59
     }
