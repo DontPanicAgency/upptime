@@ -245,7 +245,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 787,
-    "timeDay": 709,
+    "timeDay": 716,
     "timeWeek": 2757,
     "timeMonth": 1163,
     "timeYear": 787,
@@ -283,10 +283,10 @@
     "url": "https://e6.s6.dpdhost.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/e6.s6.dpdhost.co.uk.ico",
     "slug": "els-e6-s6-dpdhost-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 596,
@@ -295,6 +295,7 @@
     "timeMonth": 559,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2025-11-12": 1,
       "2025-04-11": 120,
       "2025-04-10": 65
     }
