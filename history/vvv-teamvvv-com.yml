@@ -1,7 +1,7 @@
 url: https://www.teamvvv.com/?monitor_check=true
-status: up
-code: 200
-responseTime: 1139
-lastUpdated: 2025-11-18T12:58:12.768Z
+status: down
+code: 500
+responseTime: 113
+lastUpdated: 2025-11-18T13:38:46.885Z
 startTime: 2025-01-03T11:02:59.785Z
 generator: Upptime <https://github.com/upptime/upptime>
