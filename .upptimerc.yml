@@ -22,8 +22,6 @@ sites:
   - name: GLA - support.gl-assessment.co.uk
     url: https://support.gl-assessment.co.uk/
     icon: https://support.gl-assessment.co.uk/favicon/favicon.ico
-  - name: GLA - content.gl-assessment.co.uk
-    url: https://content.gl-assessment.co.uk/readingpathwayguide
   - name: CIR/Kent - virtualexperience.kent.ac.uk
     url: https://virtualexperience.kent.ac.uk/
     icon: https://virtualexperience.kent.ac.uk/wp-content/themes/kent-wp-theme/assets/images/favicons/favicon.ico?1693492488
@@ -61,14 +59,6 @@ sites:
   - name: WRI - whentheygetolder.co.uk
     url: https://whentheygetolder.co.uk/
     icon: https://whentheygetolder.co.uk/wp-content/themes/whentheygetolder/images/favicon.ico
-  - name: DP - S8 HTTP
-    url: https://s8.dpdhost.co.uk
-  - name: DP - S8 mySQL
-    url: s8.dpdhost.co.uk
-    port: 3306
-  - name: DP - S8 DirectAdmin
-    url: s8.dpdhost.co.uk
-    port: 2222
   
 
 
