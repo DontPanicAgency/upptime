@@ -13,7 +13,7 @@
     "time": 755,
     "timeDay": 506,
     "timeWeek": 563,
-    "timeMonth": 604,
+    "timeMonth": 609,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2025-11-10": 19,
@@ -38,7 +38,7 @@
     "time": 1322,
     "timeDay": 941,
     "timeWeek": 1324,
-    "timeMonth": 1373,
+    "timeMonth": 1382,
     "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-09-14": 55,
@@ -60,7 +60,7 @@
     "time": 573,
     "timeDay": 150,
     "timeWeek": 264,
-    "timeMonth": 247,
+    "timeMonth": 246,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2025-11-05": 16,
@@ -81,7 +81,7 @@
     "time": 500,
     "timeDay": 166,
     "timeWeek": 205,
-    "timeMonth": 210,
+    "timeMonth": 211,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2025-11-05": 16,
@@ -104,7 +104,7 @@
     "time": 702,
     "timeDay": 613,
     "timeWeek": 718,
-    "timeMonth": 813,
+    "timeMonth": 825,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2025-11-18": 179,
@@ -117,21 +117,22 @@
     "icon": "https://virtualexperience.kent.ac.uk/wp-content/themes/kent-wp-theme/assets/images/favicons/favicon.ico?1693492488",
     "slug": "cir-kent-virtualexperience-kent-ac-uk",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 1220,
     "timeDay": 10328,
     "timeWeek": 3410,
-    "timeMonth": 1662,
+    "timeMonth": 1680,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2025-11-18": 138,
       "2025-12-10": 80,
       "2026-02-02": 48,
-      "2026-08-18": 1
+      "2026-08-19": 32,
+      "2026-08-18": 7
     }
   },
   {
@@ -148,7 +149,7 @@
     "time": 667,
     "timeDay": 654,
     "timeWeek": 647,
-    "timeMonth": 649,
+    "timeMonth": 650,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2025-11-18": 283,
@@ -169,7 +170,7 @@
     "time": 1132,
     "timeDay": 905,
     "timeWeek": 890,
-    "timeMonth": 850,
+    "timeMonth": 858,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2025-11-18": 283,
@@ -190,7 +191,7 @@
     "time": 1189,
     "timeDay": 647,
     "timeWeek": 766,
-    "timeMonth": 799,
+    "timeMonth": 800,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-11-18": 150,
@@ -233,7 +234,7 @@
     "time": 717,
     "timeDay": 650,
     "timeWeek": 643,
-    "timeMonth": 646,
+    "timeMonth": 648,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2025-11-18": 179,
@@ -250,16 +251,17 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.49%",
+    "uptimeYear": "25.48%",
     "time": 733,
     "timeDay": 490,
     "timeWeek": 273,
-    "timeMonth": 339,
+    "timeMonth": 341,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-08-25": 358,
       "2025-11-18": 491,
-      "2026-08-18": 1434,
+      "2026-08-19": 32,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -569,7 +571,7 @@
     "time": 1568,
     "timeDay": 1514,
     "timeWeek": 1346,
-    "timeMonth": 1323,
+    "timeMonth": 1326,
     "timeYear": 1453,
     "dailyMinutesDown": {
       "2025-12-10": 74
@@ -589,7 +591,7 @@
     "time": 1195,
     "timeDay": 612,
     "timeWeek": 828,
-    "timeMonth": 767,
+    "timeMonth": 773,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-11-18": 169,
@@ -610,7 +612,7 @@
     "time": 1141,
     "timeDay": 633,
     "timeWeek": 749,
-    "timeMonth": 813,
+    "timeMonth": 812,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2025-11-18": 151,
@@ -631,7 +633,7 @@
     "time": 87,
     "timeDay": 43,
     "timeWeek": 46,
-    "timeMonth": 92,
+    "timeMonth": 94,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2025-11-18": 151
@@ -651,7 +653,7 @@
     "time": 1293,
     "timeDay": 1062,
     "timeWeek": 930,
-    "timeMonth": 959,
+    "timeMonth": 962,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2025-11-18": 151,
