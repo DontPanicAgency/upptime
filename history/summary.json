@@ -13,7 +13,7 @@
     "time": 743,
     "timeDay": 571,
     "timeWeek": 575,
-    "timeMonth": 632,
+    "timeMonth": 636,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2025-11-10": 19,
@@ -61,8 +61,8 @@
     "time": 544,
     "timeDay": 229,
     "timeWeek": 177,
-    "timeMonth": 249,
-    "timeYear": 390,
+    "timeMonth": 250,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-11-05": 16,
       "2025-12-05": 33
@@ -82,8 +82,8 @@
     "time": 472,
     "timeDay": 225,
     "timeWeek": 191,
-    "timeMonth": 200,
-    "timeYear": 326,
+    "timeMonth": 202,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-11-05": 16,
       "2025-12-05": 33,
@@ -105,8 +105,8 @@
     "time": 702,
     "timeDay": 717,
     "timeWeek": 665,
-    "timeMonth": 715,
-    "timeYear": 723,
+    "timeMonth": 712,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-11-18": 179,
       "2026-02-23": 44
@@ -126,7 +126,7 @@
     "time": 1224,
     "timeDay": 1338,
     "timeWeek": 1137,
-    "timeMonth": 1719,
+    "timeMonth": 1739,
     "timeYear": 1281,
     "dailyMinutesDown": {
       "2025-11-18": 138,
@@ -141,20 +141,21 @@
     "url": "https://buttonschildrensparties.co.uk/",
     "icon": "https://buttonschildrensparties.co.uk/favicon.ico",
     "slug": "but-buttonschildrensparties-co-uk",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 663,
+    "time": 664,
     "timeDay": 685,
     "timeWeek": 599,
     "timeMonth": 631,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-11-18": 283,
-      "2025-12-10": 79
+      "2025-12-10": 79,
+      "2026-09-09": 15
     }
   },
   {
@@ -162,20 +163,21 @@
     "url": "https://wonderwoodexplorers.co.uk/",
     "icon": "https://wonderwoodexplorers.co.uk/wp-content/themes/wonderwood/resources/favicon/favicon.ico",
     "slug": "but-wonderwoodexplorers-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
-    "time": 1114,
+    "time": 1113,
     "timeDay": 1072,
     "timeWeek": 823,
-    "timeMonth": 921,
+    "timeMonth": 920,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2025-11-18": 283,
-      "2025-12-10": 79
+      "2025-12-10": 79,
+      "2026-09-09": 11
     }
   },
   {
@@ -192,8 +194,8 @@
     "time": 1158,
     "timeDay": 902,
     "timeWeek": 734,
-    "timeMonth": 781,
-    "timeYear": 1000,
+    "timeMonth": 777,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2025-11-18": 150,
       "2025-12-10": 78,
@@ -214,7 +216,7 @@
     "time": 626,
     "timeDay": 551,
     "timeWeek": 558,
-    "timeMonth": 579,
+    "timeMonth": 581,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2025-11-18": 125,
@@ -235,7 +237,7 @@
     "time": 722,
     "timeDay": 679,
     "timeWeek": 669,
-    "timeMonth": 688,
+    "timeMonth": 689,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2025-11-18": 179,
@@ -248,19 +250,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaphod.dev.ico",
     "slug": "dp-zaphod-dev",
     "status": "down",
-    "uptime": "52.22%",
+    "uptime": "52.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.78%",
+    "uptimeYear": "19.53%",
     "time": 710,
     "timeDay": 205,
     "timeWeek": 368,
-    "timeMonth": 364,
-    "timeYear": 611,
+    "timeMonth": 370,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2025-11-18": 491,
-      "2026-09-09": 113,
+      "2026-09-09": 1420,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -561,21 +563,22 @@
     "url": "https://e6.s6.dpdhost.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/e6.s6.dpdhost.co.uk.ico",
     "slug": "els-e6-s6-dpdhost-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 530,
     "timeDay": 491,
     "timeWeek": 505,
-    "timeMonth": 504,
+    "timeMonth": 499,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2025-11-12": 21,
       "2025-11-14": 45,
-      "2025-12-10": 75
+      "2025-12-10": 75,
+      "2026-09-09": 6
     }
   },
   {
@@ -583,19 +586,20 @@
     "url": "https://surreytotalhealth.co.uk/",
     "icon": "https://surreytotalhealth.co.uk/wp-content/uploads/2019/02/favicon.png",
     "slug": "sth-surreytotalhealth-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1543,
     "timeDay": 1445,
     "timeWeek": 1290,
-    "timeMonth": 1344,
-    "timeYear": 1426,
+    "timeMonth": 1337,
+    "timeYear": 1424,
     "dailyMinutesDown": {
-      "2025-12-10": 74
+      "2025-12-10": 74,
+      "2026-09-09": 1
     }
   },
   {
@@ -612,8 +616,8 @@
     "time": 1171,
     "timeDay": 966,
     "timeWeek": 1096,
-    "timeMonth": 871,
-    "timeYear": 1037,
+    "timeMonth": 879,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-11-18": 169,
       "2025-12-10": 73
@@ -633,8 +637,8 @@
     "time": 1108,
     "timeDay": 867,
     "timeWeek": 793,
-    "timeMonth": 774,
-    "timeYear": 970,
+    "timeMonth": 773,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2025-11-18": 151,
       "2025-12-10": 72
@@ -654,7 +658,7 @@
     "time": 90,
     "timeDay": 542,
     "timeWeek": 272,
-    "timeMonth": 134,
+    "timeMonth": 138,
     "timeYear": 82,
     "dailyMinutesDown": {
       "2025-11-18": 151
@@ -674,7 +678,7 @@
     "time": 1276,
     "timeDay": 1127,
     "timeWeek": 1048,
-    "timeMonth": 979,
+    "timeMonth": 976,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-11-18": 151,
